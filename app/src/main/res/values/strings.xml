@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lolin</string>
+    <string name="the_lolin">The Lolin</string>
+    <string name="we_bring_all_health_services_to_one_place">We bring all health services to one place</string>
+    <string name="need_an_account">Need an Account?</string>
+    <string name="already_have_an_account">Already have an Account</string>
+    <string name="login_to_your_account">Login to your Account</string>
+</resources>
